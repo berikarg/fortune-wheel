@@ -1,0 +1,8 @@
+server:
+  port: "0"
+
+database:
+  user: "postgres"
+  password: ""
+  name: "postgres"
+  addr: "localhost:0"
